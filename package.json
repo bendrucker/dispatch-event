@@ -1,7 +1,7 @@
 {
   "name": "dispatch-event",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Dispatch an event from a DOM element",
   "license": "MIT",
   "repository": "bendrucker/dispatch-event",
