@@ -1,0 +1,33 @@
+{
+  "name": "dispatch-event",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Dispatch an event from a DOM element",
+  "license": "MIT",
+  "repository": "bendrucker/dispatch-event",
+  "author": {
+    "email": "bvdrucker@gmail.com",
+    "name": "Ben Drucker",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "dispatch",
+    "dom",
+    "element",
+    "event"
+  ],
+  "devDependencies": {
+    "global": "~4.3.0",
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "@bendrucker/synthetic-dom-events": "~0.3.0"
+  }
+}
