@@ -1,4 +1,4 @@
-# dispatch-event [![Build Status](https://travis-ci.org/bendrucker/dispatch-event.svg?branch=master)](https://travis-ci.org/bendrucker/dispatch-event)
+# dispatch-event [![Build Status](https://travis-ci.org/bendrucker/dispatch-event.svg?branch=master)](https://travis-ci.org/bendrucker/dispatch-event) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/dispatch-event.svg)](https://greenkeeper.io/)
 
 > Dispatch an event from a DOM element
 
